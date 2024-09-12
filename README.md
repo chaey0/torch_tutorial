@@ -5,8 +5,7 @@ Pytorch implementation of EfficientNet, MobileNet, ResNet, and Vision Transforme
 ## Folder Structure
 
 ```bash
-torch_tutorial/
-│
+
 ├── models/                     # Model architectures
 │   ├── __init__.py              # Initializes the models module
 │   ├── efficientnet.py          # EfficientNet model implementation
