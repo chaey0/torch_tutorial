@@ -2,6 +2,10 @@
 
 Pytorch implementation of EfficientNet, MobileNet, ResNet, and Vision Transformers (ViT).
 
+## Dataset
+
+FashionMNIST
+
 ## Folder Structure
 
 ```bash
